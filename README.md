@@ -45,7 +45,7 @@ Dacon에서 주최하는 교육목적 경진대회인 와인 품질 분류 경�
 
 ## 변수간 상관관계
 
-점 이항 상관관계(Point-Biserial Correlation) 
+**점 이항 상관관계(Point-Biserial Correlation)**
 
 하나는 연속형 변수이고 다른 하나는 이진형 변수인 두 변수 간의 관계를 측정하는 상관계수
 
@@ -55,7 +55,7 @@ Dacon에서 주최하는 교육목적 경진대회인 와인 품질 분류 경�
 
 ## 머신러닝 모델
 
-랜덤포레스트 모델 (Random Forest Model)
+**랜덤포레스트 모델 (Random Forest Model)**
 
 다수의 결정 트리를 생성하고 이들의 예측을 종합하여 최종 예측 진행함
 
