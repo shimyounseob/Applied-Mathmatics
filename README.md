@@ -3,6 +3,7 @@
 Dacon에서 주최하는 교육목적 경진대회인
 와인 품질 분류 경진대회의 데이터를 활용
 > https://dacon.io/competitions/open/235610/overview/description
+
 주어진 데이터 파일(train.csv, test.csv파일)에서 
 랜덤포레스트 모델을 사용하여 와인의 Type이 red인지 white인지 예측하는 프로젝트
 
@@ -62,7 +63,7 @@ Dacon에서 주최하는 교육목적 경진대회인
 - Recall: 실제 맞은 것 중에서 예측도 맞은 비율
 - F1-score: Precision과 Recall의 평균
 
-<img src="https://github.com/shimyounseob/wine-classification-ML-model/assets/97441805/7bf554ee-9546-4395-a8a3-285f90b0d2e3" width="600">
+<img src="https://github.com/shimyounseob/wine-classification-ML-model/assets/97441805/7bf554ee-9546-4395-a8a3-285f90b0d2e3" width="400">
 
 ## 변수 중요도
 <img src="https://github.com/shimyounseob/wine-classification-ML-model/assets/97441805/b75092cd-8bdb-486e-8943-6fecaa650e1a" width="600">
