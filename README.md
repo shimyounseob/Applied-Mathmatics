@@ -5,6 +5,7 @@ Dacon에서 주최하는 교육목적 경진대회인
 > https://dacon.io/competitions/open/235610/overview/description
 
 주어진 데이터 파일(train.csv, test.csv파일)에서 
+
 랜덤포레스트 모델을 사용하여 와인의 Type이 red인지 white인지 예측하는 프로젝트
 
 ## 기술 스택
