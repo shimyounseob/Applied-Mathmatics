@@ -4,9 +4,7 @@
 
 랜덤포레스트 모델을 사용하여 와인의 Type이 red인지 white인지 예측하는 프로젝트
 
-Dacon에서 주최하는 교육목적 경진대회인
-
-와인 품질 분류 경진대회의 데이터를 활용
+Dacon에서 주최하는 교육목적 경진대회인 와인 품질 분류 경진대회의 데이터를 활용
 > https://dacon.io/competitions/open/235610/overview/description
 > 
 ## 기술 스택
